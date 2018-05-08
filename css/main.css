@@ -9,7 +9,6 @@ html {
 body {
     max-width: 1200px;
     margin: 0 auto;
-    background-color: white;
     font-family: 'Montserrat', sans-serif;
     background-color: #659DBD;
     color: white;
@@ -24,6 +23,7 @@ nav ul {
     list-style: none;
     padding-left: 0;
     color: white;
+
 
 }
 
@@ -80,8 +80,4 @@ footer {
     font-family: 'Montserrat', sans-serif;
     color: white;
 
-}
-
-hr {
-    color: none;
 }
