@@ -40,6 +40,12 @@ h1 {
     color: white;
 }
 
+h3 {
+    font-size: 1.5em;
+    margin: 0.67em 0;
+    color: white;
+}
+
 /* Grouping content
    ========================================================================== */
 
